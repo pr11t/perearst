@@ -1,0 +1,13 @@
+Requirements
+
+python3, virtualenv
+
+Installation
+
+virtualenv -p python3 perearstvenv
+source perearstvenv/bin/activate
+pip install requirements.txt
+
+Usage
+
+python3 perearst.py -h
